@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceNerd
 - I do all kind of stuff java, HTML/CSS and python
-- Currently I'm working at my biggest projekt "Space's Toolbox"
+- Currently I'm working at my biggest projekt "Project Exodus"
 - You can reach me on dc: Space Nerd#6264
                       e-mail: spacenerddev@gmail.com
 
