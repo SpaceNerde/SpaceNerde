@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpaceNerd
-- You can reach me on dc: Space Nerd#6264
+- You can reach me on dc: Space Nerd#6264\n
                       e-mail: space_nerd_1112@hotmail.com
 
 <!---
