@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceNerd
 - dc: Space Nerd#6264
-- e-mail: space_nerd_1112@hotmail.com
+- e-mail: spacenerddev@gmail.com
  
 
 <!---
