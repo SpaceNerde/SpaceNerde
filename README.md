@@ -7,7 +7,7 @@
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SpaceNerde&theme=gruvbox">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceNerde&theme=gruvbox&layout=donut">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceNerde&theme=gruvbox&layout=donut&hide=javascript">
     </a>
 </div>
 
